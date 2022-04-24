@@ -152,7 +152,7 @@ const Main = () => {
                         whileTap={{scale: 0.9}}
 
                     >
-                        Get in touch
+                        Get in touch <br>
                         My Email: basselabdelkader00@gmail.com
                     </motion.h2>
                 </Contact>
