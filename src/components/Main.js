@@ -153,6 +153,7 @@ const Main = () => {
 
                     >
                         Get in touch
+                        My Email: basselabdelkader00@gmail.com
                     </motion.h2>
                 </Contact>
 
