@@ -27,17 +27,17 @@ background-size: 100% 2px;
     z-index:1;
 `
 const SubBox = styled.div`
-width: 50%;
-position: relative;
-display: flex;
-.pic{
+  width: 50%;
+  position: relative;
+  display: flex;
+  .pic{
     position: absolute;
     bottom: 0;
     left: 50%;
     transform: translate(-50%,0%);
     width: 100%;
-    height: 100%;
-}
+    height: auto;
+  }
 `
 
 const Text = styled.div`
