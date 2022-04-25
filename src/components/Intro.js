@@ -36,7 +36,7 @@ const SubBox = styled.div`
     left: 50%;
     transform: translate(-50%,0%);
     width: 100%;
-    height: auto;
+    height: 100%;
   }
 `
 
