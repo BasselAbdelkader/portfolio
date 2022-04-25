@@ -33,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/bassel/Documents/Self Study/Websites/portfolio",
+    "last_opened_file_path": "/Users/bassel/Documents/Self Study/Websites/portfolio/src/assets/Images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,6 +44,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/Images" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -66,6 +67,7 @@
       <workItem from="1650827535762" duration="1055000" />
       <workItem from="1650828606818" duration="653000" />
       <workItem from="1650830696613" duration="1145000" />
+      <workItem from="1650914964757" duration="201000" />
     </task>
     <servers />
   </component>
