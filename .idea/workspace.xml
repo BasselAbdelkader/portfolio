@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da261d74-43d3-4532-b259-9b4cf2e2e49e" name="Changes" comment="" />
+    <list default="true" id="da261d74-43d3-4532-b259-9b4cf2e2e49e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/public/linkedinThumbnail.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,7 @@
       <recent name="$PROJECT_DIR$/src/assets/Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/assets/Images" />
     </key>
   </component>
@@ -70,7 +73,7 @@
       <workItem from="1650914964757" duration="201000" />
       <workItem from="1650915296691" duration="2112000" />
       <workItem from="1650922723415" duration="2473000" />
-      <workItem from="1650933837367" duration="1604000" />
+      <workItem from="1650933837367" duration="1919000" />
     </task>
     <servers />
   </component>
