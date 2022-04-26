@@ -9,6 +9,16 @@ export const Work = [
     },
     {
         id:2,
+        name:"Scandiweb Project",
+        description:"A quite simple Products tracking/warehousing website made for Scandiweb using PHP and MySQL.",
+        tags:["PHP","MySQL","Apache"],
+
+        demo:"https://juniortest-bassel-abdelkader.herokuapp.com/",
+        github:"https://github.com/BasselAbdelkader/Scandiweb-Test"
+
+    },
+    {
+        id:3,
         name:"Zeid Consulting",
         description:"A Content Management System for an HR freelancer.",
         tags:["HTML","CMS"],
@@ -17,7 +27,7 @@ export const Work = [
         
     },
     {
-        id:3,
+        id:4,
         name:"Todo App",
         description:"An elegant Todo list made using Node.js and MongoDB.",
         tags:["Node","MongoDB","EJS"],
@@ -25,16 +35,7 @@ export const Work = [
         demo:"https://todotodaylist.herokuapp.com/",
         github:"https://github.com/BasselAbdelkader/Todo-List"
     },
-    {
-        id:4,
-        name:"Scandiweb Project",
-        description:"A quite simple Products tracking/warehousing website made for Scandiweb using PHP and MySQL.",
-        tags:["PHP","MySQL","Apache"],
-        
-        demo:"https://juniortest-bassel-abdelkader.herokuapp.com/",
-        github:"https://github.com/BasselAbdelkader/Scandiweb-Test"
-       
-    }
+
 
     
   

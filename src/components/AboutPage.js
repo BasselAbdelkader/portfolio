@@ -71,11 +71,12 @@ const AboutPage = () => {
                     <img src={astronaut} alt="spaceman" />
                 </Spaceman>
                 <Main>
-                    I'm a Full Stack Web developer located in Egypt. I enjoy building elegant websites.
+                    I'm Bassel, A Computer Science fresh graduate from Monash University currently freelancing as a Software Developer.
                     <br /> <br/>
-                    I'm  also interested in scripting and automation tasks and my go to programming language for that is usually Python.
+                    I like to code things from scratch, and enjoy bringing ideas to life in the browser.
                     <br/> <br/>
-                    I am currently a freelance Developer. You can get in touch with me via  the social links.
+                    I also enjoy working on Scripting & Automation tasks and my go to language for that is usually Python.
+
                 </Main>
 
                 <BigTitle text="ABOUT" top="10%" left="5%" />
