@@ -29,7 +29,7 @@ export const Work = [
     {
         id:4,
         name:"Todo App",
-        description:"An elegant Todo list made using Node.js and MongoDB.",
+        description:"An elegant To-Do List made using Node.js and MongoDB.",
         tags:["Node","MongoDB","EJS"],
         
         demo:"https://todotodaylist.herokuapp.com/",
